@@ -23,7 +23,7 @@ features drive predictions, where the models fail, and what those failures cost 
 | Source | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) / `sklearn.datasets` |
 | Samples | 569 |
 | Features | 30 numeric (mean, SE, worst of 10 nucleus measurements) |
-| Target | Binary — Malignant (0) / Benign (1) |
+| Target | Binary - Malignant (0) / Benign (1) |
 | Class balance | 37.3% malignant / 62.7% benign |
 
 No external download required — the dataset is bundled with `scikit-learn`.
